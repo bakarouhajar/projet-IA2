@@ -1,9 +1,7 @@
 # projet-IA2
-[](url)[
 
-https://github.com/bakarouhajar/projet-IA2/assets/105990605/ae5d1237-e678-46dc-8b08-35d936fa36fa
+https://github.com/bakarouhajar/projet-IA2/assets/105990605/87206d61-39c9-4701-b92a-7b2c74c80ab4
 
-](url)
 --- Fonctionnalités Principales
 
 Poursuite de Cible : Les véhicules sont capables de suivre une cible mobile représentée par la position de la souris.
