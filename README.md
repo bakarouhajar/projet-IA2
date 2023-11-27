@@ -1,6 +1,8 @@
 # projet-IA2
 
-https://github.com/bakarouhajar/projet-IA2/assets/105990605/87206d61-39c9-4701-b92a-7b2c74c80ab4
+
+https://github.com/bakarouhajar/projet-IA2/assets/105990605/3392d4fd-ea50-4bd4-9ef3-827efbb97ce1
+
 
 --- Fonctionnalités Principales
 
